@@ -1,5 +1,3 @@
-# medical appointment booking
-
 
 # Medical Appointment Booking
 
